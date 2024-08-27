@@ -9,6 +9,9 @@
 <!--  jquery 반드시 라이브러리 추가 (CDN : Content Delivery Network)  -->
  		<script src="../js/jquery-3.7.1.min.js"></script> 
 <%-- <script src="<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>"></script> --%>
+
+
+<!--  주의 : 여러개 추가 가능 하지만 버전 추올을 주의 -->
 <script type="text/javascript">
 		$(document).ready(function(){
 			alert(" jquery 실행 (1) ! ");
